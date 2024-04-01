@@ -4,9 +4,6 @@
 > 허지은(팀장), 오선정, 윤서영, 성예린, 송수인  
 > 개발기간 : 2024.03.05
 
-<div align="center">
-  <img width="940" alt="mobile" src="https://github.com/AIFFEL-SO-4th/SoClean/assets/65994153/4a5e7311-b1da-4929-8996-d78bb3ef514f">
-</div>
 
 <br>
 
