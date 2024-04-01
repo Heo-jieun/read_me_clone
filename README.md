@@ -16,6 +16,7 @@
 <br>
 서로 도움을 주고 받으면 생긴 "시간"이라는 단위를 보관하고, 교환을 도와 줌으로써 사람들이 좀 더 안전하고,편하세 도움을 교환할 수 있도록 해주는 은행으로 "같이"의 "가치"를 중요시합니다. 
 
+<br>
 **'매듭창고'는 사용자 편의를 고려해 제작된 앱입니다.**
 
 1. 블루투스 기능을 이용한 송금
@@ -45,7 +46,6 @@
 
 **Frontend**
 <div align=center> 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/DART-339AF0?style=for-the-badge&logo=DART&logoColor=white">
 <br>
 
@@ -54,9 +54,10 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/pytorch-F80000?style=for-the-badge&logo=pytorch&logoColor=white"> 
+
 <!-- <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> -->
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <br>
 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
