@@ -42,7 +42,7 @@
 <br>
 
 
-## Stacks 🚘
+## Stacks 
 
 **Frontend**
 <div align=center> 
@@ -53,6 +53,7 @@
 <br>
 
 **Backend**
+<br>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
